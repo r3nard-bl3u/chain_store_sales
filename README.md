@@ -17,7 +17,7 @@ The dataset contains approximately 10,000 rows of sales data spanning four years
 
 ## Tools and Technologies
 - Database: MySQL
-- **Query Tool: MySQL Workbench
+- Query Tool: MySQL Workbench
 - Visualization: Python 
 
 ## Key Insights
